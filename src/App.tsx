@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 import _ from 'lodash';
 import useFetchApi from './common/useFetchApi';
-import { Routes, Const } from './common/Const';
+import { Const } from './common/Const';
 import { CoinMarketResponse } from './common/Interfaces';
 import BitcoinPanel from './components/BitcoinPanel/BitcoinPanel';
 
